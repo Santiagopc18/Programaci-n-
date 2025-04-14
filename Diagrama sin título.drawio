@@ -7,7 +7,7 @@
         <mxCell id="sNS0ZojCd92UjoBOgC7c-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="sNS0ZojCd92UjoBOgC7c-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Ingrese el valor de dólares A" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Ingrese el numero de hijos del empleado&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sNS0ZojCd92UjoBOgC7c-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sNS0ZojCd92UjoBOgC7c-0" target="WIyWlLk6GJQsqaUBKTNV-3">
@@ -19,17 +19,34 @@
         <mxCell id="sNS0ZojCd92UjoBOgC7c-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sNS0ZojCd92UjoBOgC7c-3" target="sNS0ZojCd92UjoBOgC7c-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sNS0ZojCd92UjoBOgC7c-3" value="E=(A*0,9)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="sNS0ZojCd92UjoBOgC7c-3" value="A*80= C" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sNS0ZojCd92UjoBOgC7c-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sNS0ZojCd92UjoBOgC7c-7" target="sNS0ZojCd92UjoBOgC7c-9">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="sNS0ZojCd92UjoBOgC7c-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sNS0ZojCd92UjoBOgC7c-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="350" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="sNS0ZojCd92UjoBOgC7c-7" value="mostrar el valor de E" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="sNS0ZojCd92UjoBOgC7c-7" value="Mostrar el valor de C&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sNS0ZojCd92UjoBOgC7c-9" value="Fin&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="450" width="80" height="80" as="geometry" />
+          <mxGeometry x="530" y="420" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sNS0ZojCd92UjoBOgC7c-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.375;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sNS0ZojCd92UjoBOgC7c-9" target="sNS0ZojCd92UjoBOgC7c-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sNS0ZojCd92UjoBOgC7c-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sNS0ZojCd92UjoBOgC7c-15" target="sNS0ZojCd92UjoBOgC7c-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sNS0ZojCd92UjoBOgC7c-15" value="C + Sueldo Base&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sNS0ZojCd92UjoBOgC7c-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sNS0ZojCd92UjoBOgC7c-17" target="sNS0ZojCd92UjoBOgC7c-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sNS0ZojCd92UjoBOgC7c-17" value="Mostrar el sueldo total&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
